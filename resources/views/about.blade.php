@@ -11,7 +11,7 @@
                     <img src="{{asset('homepage/img/about-1.png')}}" title="" alt="">
                 </div>
                 <div class="col-lg-6 m-15px-tb">
-                    <h3 class="h1">Lorem ipsum dolor sit amet consectetur</h3>
+                    <h3 class="h1">Lorem sipsum dolor sit amet consectetur</h3>
                     <p class="font-2 p-0px-t">Lorem ipsum dolor sit amet, consectetur adipiscing elitd do eiusmod tempor incididunt ut lore magna aliqua.</p>
                     <div class="border-left-2 border-color-theme2nd p-25px-l m-35px-t">
                         <h6 class="font-2">Lorem ipsum dolor sit amet consectetur adipisicing elit.</h6>
