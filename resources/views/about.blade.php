@@ -13,7 +13,7 @@
                 <div class="col-lg-6 m-15px-tb">
                     <h3 class="h1">Lorem ipsum dolor sit amet consectetur</h3>
                     <p class="font-2 p-0px-t">Lorem ipsum dolor sit amet, consectetur adipiscing elitd do eiusmod tempor incididunt ut lore magna aliqua.</p>
-                    <div class="border-left-2 border-color-theme p-25px-l m-35px-t">
+                    <div class="border-left-2 border-color-theme2nd p-25px-l m-35px-t">
                         <h6 class="font-2">Lorem ipsum dolor sit amet consectetur adipisicing elit.</h6>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum voluptatem nisi quibusdam sapiente sequi esse dolor temporibus non repudiandae molestias</p>
                     </div>
@@ -38,7 +38,7 @@
                             <div class="skill-lt md">
                                 <h6 class="dark-color">Project Management</h6>
                                 <div class="skill-bar">
-                                    <div class="skill-bar-in theme-bg" role="progressbar" aria-valuenow="92" aria-valuemin="0" aria-valuemax="100">
+                                    <div class="skill-bar-in theme2nd-bg" role="progressbar" aria-valuenow="92" aria-valuemin="0" aria-valuemax="100">
                                         <span>92%</span>
                                     </div>
                                 </div>
@@ -46,7 +46,7 @@
                             <div class="skill-lt md">
                                 <h6 class="dark-color">Time Management</h6>
                                 <div class="skill-bar">
-                                    <div class="skill-bar-in theme-bg" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
+                                    <div class="skill-bar-in theme2nd-bg" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
                                         <span>85%</span>
                                     </div>
                                 </div>
@@ -54,7 +54,7 @@
                         </div>
                     </div>
                     <div class="col-lg-5 col-xl-4 ml-lg-auto align-self-center m-15px-tb">
-                        <div class="accordion accordion-08 p10 border-radius-15 dark-bg white-color-light links-white">
+                        <div class="accordion accordion-08 p10 border-radius-15 dark-bg white-color links-white">
                             <div class="acco-group">
                                 <a href="#" class="acco-heading">Title Skill</a>
                                 <div class="acco-des">Adipisicing elit lorem ipsum dolor sit amet, consectetur. Tempora, ab officiis ducimus commodi</div>
@@ -127,11 +127,11 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-5 m-15px-tb">
-                    <h6 class="theme-color m-10px-b">Wide range of web development services</h6>
+                    <h6 class="theme2nd-color m-10px-b">Wide range of web development services</h6>
                     <h2 class="h2 m-20px-b">We know that good design means good business.</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                     <div class="p-10px-t">
-                        <a class="m-btn m-btn-radius m-btn-theme" href="#">
+                        <a class="m-btn m-btn-radius m-btn-theme2nd" href="#">
                             <span class="m-btn-inner-text">Dịch vụ của chúng tôi</span>
                             <span class="m-btn-inner-icon arrow"></span>
                         </a>

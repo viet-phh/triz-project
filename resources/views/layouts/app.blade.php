@@ -59,7 +59,7 @@
                                 <a class="nav-link {!! isset($about) ? 'active':'' !!}" href="/about">Về chúng tôi</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Dịch vụ</a>
+                                <a class="nav-link {!! isset($service) ? 'active':'' !!}" href="/service">Dịch vụ</a>
                             </li>
                             <li class="nav-item mm-in px-dropdown">
                                 <a class="nav-link" href="#">Lean</a>
@@ -222,7 +222,7 @@
                                 </div>
                             </div>
                             <div class="col-12">
-                                <button class="m-btn m-btn-theme m-btn-radius w-100" type="submit" name="send">Gửi</button>
+                                <button class="m-btn m-btn-theme2nd m-btn-radius w-100" type="submit" name="send">Gửi</button>
                                 <div class="snackbars" id="form-output-global"></div>
                             </div>
                         </div>
@@ -230,9 +230,9 @@
                 </div>
                 <div class="col-lg-5 m-15px-tb ml-auto">
                     <h5 class="m-20px-b body-color">Liên hệ ngay!</h5>
-                    <div class="h1 theme-color"></div>
+                    <div class="h1 theme2nd-color"></div>
                     <div class="media align-items-center p-10px-tb">
-                        <div class="icon-40 theme-bg-alt border-radius-50 theme-color">
+                        <div class="icon-40 theme2nd-bg-alt border-radius-50 theme2nd-color">
                             <i class="fas fa-phone"></i>
                         </div>
                         <div class="media-body p-15px-l">
@@ -240,7 +240,7 @@
                         </div>
                     </div>
                     <div class="media align-items-center p-10px-tb">
-                        <div class="icon-40 theme-bg-alt border-radius-50 theme-color">
+                        <div class="icon-40 theme2nd-bg-alt border-radius-50 theme2nd-color">
                             <i class="fas fa-map"></i>
                         </div>
                         <div class="media-body p-15px-l">

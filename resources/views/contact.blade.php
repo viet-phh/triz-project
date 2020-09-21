@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-lg-4 m-15px-tb">
                     <div class="box-shadow min-h-350px p-65px-tb p-40px-lr hover-top white-bg">
-                        <div class="m-30px-b only-icon-70 theme-color">
+                        <div class="m-30px-b only-icon-70 theme2nd-color">
                             <i class="icon-map"></i>
                         </div>
                         <h5 class="m-15px-b">Địa chỉ liên hệ</h5>
@@ -17,7 +17,7 @@
                 </div>
                 <div class="col-lg-4 m-15px-tb">
                     <div class="box-shadow min-h-350px p-65px-tb p-40px-lr hover-top white-bg">
-                        <div class="m-30px-b only-icon-70 theme-color">
+                        <div class="m-30px-b only-icon-70 theme2nd-color">
                             <i class="icon-chat"></i>
                         </div>
                         <h5 class="m-15px-b">Liên hệ trực tiếp qua</h5>
@@ -27,7 +27,7 @@
                 </div>
                 <div class="col-lg-4 m-15px-tb">
                     <div class="box-shadow min-h-350px p-65px-tb p-40px-lr hover-top white-bg">
-                        <div class="m-30px-b only-icon-70 theme-color">
+                        <div class="m-30px-b only-icon-70 theme2nd-color">
                             <i class="icon-envelope"></i>
                         </div>
                         <h5 class="m-15px-b">Email cho chúng tôi</h5>
@@ -46,7 +46,7 @@
         <div class="container">
             <div class="row md-m-25px-b m-40px-b justify-content-center">
                 <div class="col-lg-7 text-center">
-                    <h3 class="h1 m-15px-b p-15px-b after-50 theme-after">Gửi yêu cầu của bạn!</h3>
+                    <h3 class="h1 m-15px-b p-15px-b after-50 theme2nd-after">Gửi yêu cầu của bạn!</h3>
                     <p class="m-0px font-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                 </div>
             </div>
@@ -85,7 +85,7 @@
                                 </div>
                             </div>
                             <div class="col-12">
-                                <button class="m-btn m-btn-theme m-btn-radius w-100" type="submit" name="send">Gửi</button>
+                                <button class="m-btn m-btn-theme2nd m-btn-radius w-100" type="submit" name="send">Gửi</button>
                                 <div class="snackbars" id="form-output-global"></div>
                             </div>
                         </div>

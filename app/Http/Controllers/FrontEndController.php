@@ -22,4 +22,9 @@ class FrontEndController extends Controller
             'about' => true
         ]);
     }
+    public function service(){
+        return view('service')->with([
+            'service' => true
+        ]);
+    }
 }
